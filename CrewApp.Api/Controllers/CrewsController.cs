@@ -7,6 +7,7 @@ using Microsoft.AspNetCore.Mvc;
 namespace CrewApp.Api.Controllers
 {
     [Route("api/[controller]")]
+
     [ApiController]
     public class CrewsController(ISender sender) : ControllerBase
     {
