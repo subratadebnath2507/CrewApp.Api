@@ -15,8 +15,4 @@
     <ProjectReference Include="..\CrewApp.Core\CrewApp.Domain.csproj" />
   </ItemGroup>
 
-  <ItemGroup>
-    <Folder Include="Queries\" />
-  </ItemGroup>
-
 </Project>
